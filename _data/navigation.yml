@@ -1,10 +1,13 @@
 # main links links
 main:
   - title: "Video"
-    url: /video/
+    url: https://www.youtube.com/watch?v=8lJhXJCUYCc
 
   - title: "Poster"
-    url: /poster/    
+    url: /files/paper1.pdf   
 
   - title: "Source Code"
-    url: /sourcecode/    
+    url: https://github.com/evrencagilci/medical.github.io/blob/master/_data/navigation.yml  
+
+  - title: "Project Report"
+    url: /files/paper2.pdf 
