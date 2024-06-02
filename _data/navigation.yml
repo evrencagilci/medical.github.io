@@ -4,10 +4,10 @@ main:
     url: https://www.youtube.com/watch?v=8lJhXJCUYCc
 
   - title: "Poster"
-    url: /files/paper1.pdf   
+    url: /files/poster.pdf   
 
   - title: "Source Code"
     url: https://github.com/evrencagilci/medical.github.io/blob/master/_data/navigation.yml  
 
   - title: "Project Report"
-    url: /files/paper2.pdf 
+    url: /files/Final_bitirme.pdf 
