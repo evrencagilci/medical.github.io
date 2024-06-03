@@ -7,7 +7,7 @@ main:
     url: /files/final_poster.pdf   
 
   - title: "Source Code"
-    url: https://github.com/evrencagilci/medical.github.io/blob/master/_data/navigation.yml  
+    url: https://github.com/utkubora/medicAI/tree/main
 
   - title: "Project Report"
     url: /files/Final_bitirme.pdf 

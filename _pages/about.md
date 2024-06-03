@@ -17,5 +17,13 @@ The Literature Review Model assists healthcare professionals in efficiently acce
 You can access the video link, the source code, the poster, and the report of this prohect from above and here:
 - [Video Link](https://github.com/academicpages/academicpages.github.io)
 - [Project Report](https://evrencagilci.github.io/medical.github.io//files/Final_bitirme.pdf)
-- [Source Code]()
+- [Source Code](https://github.com/utkubora/medicAI/tree/main)
 - [Poster](https://evrencagilci.github.io/medical.github.io//files/final_poster.pdf)
+
+More about us:
+
+![alt text](images/us.jpeg)
+
+We are MedicAI. Our team consists of 3 members. Our members are Gökçenaz Akyol, Evren Çağılcı and Utku Bora. We are senior students at Hacettepe University Computer/Artificial Intelligence Engineering department.
+
+Thanks for visiting :)
